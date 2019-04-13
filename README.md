@@ -1,6 +1,6 @@
 # The Portfolio of Seth Goldfarb
 
-[Click here to get started](https://goldfarbas.github.io/Seth-Goldfarb-Portfolio/)
+[Click here to view the site](https://goldfarbas.github.io/Seth-Goldfarb-Portfolio/)
 
 ## Forked from
 https://github.com/portfolio-central/jekyll-instagram-portfolio-theme
