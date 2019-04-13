@@ -7,9 +7,11 @@
   background: $theme-color-main;
   color: darken($theme-color-main, 50%);
 
+  // Element: container-contacts-twitter
   // Element: container-contacts-phone
   // Element: container-contacts-email
 
+  &-twitter,
   &-phone,
   &-email {
     font-size: 1.8rem;
