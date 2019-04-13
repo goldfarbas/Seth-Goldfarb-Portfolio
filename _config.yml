@@ -16,9 +16,10 @@ markdown: kramdown
 # Account ids
 snapwidget: 247552
 
-# Contacts
+# Contact
 email: goldfarbas@gmail.com
-phone: +1-800-555-2016
+linkedin: https://www.linkedin.com/in/asethgoldfarb/
+twitter: @goldenchaosgod
 
 # Tracking
 googleAnalitycsID: UA-38411253-5
