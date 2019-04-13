@@ -1,5 +1,6 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
+title: The Portfolio of Seth Goldfarb
 email: goldfarbas@gmail.com
 brand: Seth Goldfarb
 headline: Welcome to my Portfolio
